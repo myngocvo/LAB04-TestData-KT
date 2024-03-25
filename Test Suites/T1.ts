@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>T1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>a4189b1e-e31f-408a-850e-33745558cb8e</testSuiteGuid>
+   <testCaseLink>
+      <guid>6c02f890-19f8-4169-bb2b-a6f239404d2d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DataDiven</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>18191e90-820a-4d03-9a89-0008ad16bfec</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/D1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>18191e90-820a-4d03-9a89-0008ad16bfec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>TK</value>
+         <variableId>7c1e7460-0773-4a64-aea4-6c10e05d2027</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>18191e90-820a-4d03-9a89-0008ad16bfec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MK</value>
+         <variableId>5e01d7db-05ec-44a4-af3e-7b0349c2f690</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>18191e90-820a-4d03-9a89-0008ad16bfec</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Notifi</value>
+         <variableId>98a035fd-9532-41d2-a394-70f075d6517f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

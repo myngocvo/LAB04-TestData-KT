@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDiven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7a2c3cd-57c8-4256-8387-1c7a84bcea84</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c1e7460-0773-4a64-aea4-6c10e05d2027</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5e01d7db-05ec-44a4-af3e-7b0349c2f690</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>98a035fd-9532-41d2-a394-70f075d6517f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c1e7460-0773-4a64-aea4-6c10e05d2027</id>
+      <masked>false</masked>
+      <name>tk</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e01d7db-05ec-44a4-af3e-7b0349c2f690</id>
+      <masked>false</masked>
+      <name>ps</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>98a035fd-9532-41d2-a394-70f075d6517f</id>
+      <masked>false</masked>
+      <name>noti</name>
+   </variable>
+</TestCaseEntity>
